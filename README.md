@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jellisy
-- 👀 I’m interested in earning a living wage and HCI.
+- 👋 Hi, I’m Jamie Ellis @jellisy
+- 👀 I’m interested in AI and Human-Computer Interaction.
 - 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on anything! I am an egg.
+- 💞️ I’m looking to collaborate on anything!.
 - 📫 How to reach me: www.linkedin.com/in/j-c-ellis
 
 <!---
